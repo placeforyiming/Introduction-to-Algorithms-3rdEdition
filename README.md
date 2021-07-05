@@ -1,2 +1,2 @@
 # Algorithm
-A Summary of Commonly used Algorithm
+A Summary of Commonly used Algorithms
