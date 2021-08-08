@@ -1,6 +1,7 @@
 # <<Introduction To Algorithms (3rd)>>  p151 ~ p159
 
 def min_heapify(input_list,node_index):
+	# node_index the order in list +1, the index of first node is 1 not 0
 	l=node_index*2
 	r=node_index*2+1
 	heap_size=len(input_list)
